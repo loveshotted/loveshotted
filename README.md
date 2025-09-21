@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![](https://64.media.tumblr.com/e48e51c4ac353c46afbb34f2c7354f30/92e685400e894f80-0e/s1280x1920/eb016ee2706b54dcad1bf2fc25b52cd6e91ae779.png)
 <!--
 **loveshotted/loveshotted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
